@@ -24,7 +24,7 @@ Github
 1. *Clone the repository*  
    ```bash
    git clone https://github.com/Gothel18/Food-ordering-project.git
-   cd Food-ordering-project.git
+   cd Food-ordering-project
 
 2. Install dependencies
 
