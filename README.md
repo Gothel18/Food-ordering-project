@@ -23,8 +23,8 @@ Github
 
 1. *Clone the repository*  
    ```bash
-   git clone https://github.com/your-username/ifras-cloud-kitchen.git
-   cd ifras-cloud-kitchen
+   git clone https://github.com/Gothel18/Food-ordering-project.git
+   cd Food-ordering-project.git
 
 2. Install dependencies
 
